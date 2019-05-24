@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://efeidierai.wibbly.org.uk/sitemap.xml
